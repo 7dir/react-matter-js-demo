@@ -34,9 +34,9 @@ const App = () => {
           <Walls x={0} y={0} width={width} height={height} wallWidth={25} />
           <Circle
             clone
-            x={500}
-            y={100}
-            radius={50}
+            x={150}
+            y={40}
+            radius={45}
             className={css``}
             cloneClass={css`
               fill: #f06;
